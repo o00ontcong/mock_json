@@ -2,16 +2,19 @@
   "status": true,
   "result": [
     {
-      "name":"Hàn Lập",
-      "age" : 30
+      "username": "hanlap",
+      "name": "Hàn Lập",
+      "age": 30
     },
     {
-      "name":"Thành nhân",
-      "age" : 31
+      "username": "thanhnhan",
+      "name": "Thành nhân",
+      "age": 31
     },
     {
-      "name":"Lâm hiên",
-      "age" : 32
+      "username": "lamhien",
+      "name": "Lâm hiên",
+      "age": 32
     }
   ]
 }
